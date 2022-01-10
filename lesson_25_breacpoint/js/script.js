@@ -1,29 +1,20 @@
 "use strict";  // используется для обозначения того, что код пишем в новом формате, пишев в верху главного документа
 
+function hello() {
+    console.log('hello World!');
+}
 
-//Объектно-ориентированный язык
+hello();
 
-// let str = 'some'; //создаем переменную со строкой
-// let strObj = new String(str); // создаем объект который содержит строку
-//
-// console.log(typeof(str));
-// console.log(typeof(strObj));
+function hi() {
+    console.log('say hi!');
+}
 
-const soldier = {
-    health: 400,
-    armor: 100,
-    sayHello : function () {
-        console.log('Hello');
-    }
- };
-// const john = {
-//   health: 100
-// };
-//
-// john.__proto__ = soldier; // (устаревший споссоб!!) установили, что солдат является прототипом Джона, и имеет все те же свойства, кроме тех, что у него уникальны
+hi();
 
-// Object.setPrototypeOf(john, soldier); //(идентично .__proto__)когда уже объекты существуют, устанавливает, что один объект становится прототипом второго объекта, где john - зависимый от прототипа,а soldier и будет основным прототипом
-// console.log(john.armor); //выведет 100, как у прототипа солдат
-// john.sayHello();
+const arr = [1, 14, 4, 30, 54],
+      sorted = arr.sort(compareNum);
 
-const john = Object.create(soldier); //создаем констатнту в которой сразу указываем. что она прототипно наследована от солдата
+function compareNum(a, b) {
+    return a - b;
+}
