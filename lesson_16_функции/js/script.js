@@ -1,22 +1,22 @@
-"use strict";  // используется для обозначения того, что код пишем в новом формате, пишев в верху главного документа
+// "use strict";  // используется для обозначения того, что код пишем в новом формате, пишев в верху главного документа
 
-//Функции
+// //Функции
 
-function showFirstMessage(text) {
-    console.log(text);
-}
-showFirstMessage('Hello world!')
+// function showFirstMessage(text) {
+//     console.log(text);
+// }
+// showFirstMessage('Hello world!')
 
-function calc(a, b) {
-    return (a + b);   // return --> вернуть
-}
+// function calc(a, b) {
+//     return (a + b);   // return --> вернуть
+// }
 
-console.log(calc(3, 5));
+// console.log(calc(3, 5));
 
-const logger = function() {
-    console.log('Hello');
-};
+// const logger = function() {
+//     console.log('Hello');
+// };
 
-logger();
-// стрелочная функция
-const calc = (a, b) => a+b
+// logger();
+// // стрелочная функция
+// const calc = (a, b) => a+b;

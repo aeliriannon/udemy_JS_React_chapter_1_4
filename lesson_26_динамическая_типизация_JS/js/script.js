@@ -51,11 +51,11 @@ if (switcher) {   // вместо switcher у нас null - который за�
     console.log('Working...');
 }
 
-let switcher = 1; // вместо switcher у нас 1 - которая существует а значит true => программа работает
+// let switcher = 1; // вместо switcher у нас 1 - которая существует а значит true => программа работает
 
-if (switcher) {
-    console.log('Working...');
-}
+// if (switcher) {
+//     console.log('Working...');
+// }
 
 //2  boolean()
 
