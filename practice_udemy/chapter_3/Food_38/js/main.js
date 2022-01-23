@@ -17,7 +17,7 @@ window.addEventListener('DOMContentLoaded', () => {  //отслеживаем з
             // item.style.display = 'none'; //обращаемся к свойству style и прописываем ему в свойство display значение none(инлайновые стили)
             item.classList.remove('show', 'fade');
             item.classList.add('hide');
-        });
+        });        
 
         tabs.forEach(item => {  //перебираем псевдомассив табов
             item.classList.remove('tabheader__item_active'); //берем каждый таб, обращаемся к объекту класслист и задаем метод ремув - удаляем указанный класс
