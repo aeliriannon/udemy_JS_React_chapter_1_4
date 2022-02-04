@@ -1,0 +1,1 @@
+https://alligator.io/js/object-property-shorthand-es6/ - сокращенная запись объектов

@@ -1,0 +1,2 @@
+http://jsraccoon.ru/es6-classes - Статья по классам
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Classes - документация по классам

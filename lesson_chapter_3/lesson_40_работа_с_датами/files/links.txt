@@ -1,0 +1,2 @@
+https://learn.javascript.ru/date  -- статья по датам
+https://www.udemy.com/course/javascript_full/learn/lecture/19509464#overview - документация по датам

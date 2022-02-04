@@ -1,0 +1,2 @@
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Default_parameters - параметры по умолчанию
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Rest_parameters - rest оператор
