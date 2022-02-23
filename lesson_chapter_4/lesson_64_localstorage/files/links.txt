@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=7FbAM52h9QA - Куки и куки-окна
+https://tproger.ru/articles/localstorage/ - localstorage
+http://dev-test.nemikor.com/web-storage/support-test/ - проверка вместимости хранилища
