@@ -1,0 +1,6 @@
+https://github.com/typicode/json-server - json-server github
+https://winnote.ru/security/160-windows-powershell-vypolnenie-scenariev-otklyucheno-v-etoy-sisteme.html - Windows PowerShell если не работает
+https://www.youtube.com/watch?v=wPG7RgPzxmM - пишем парсер на java script
+https://www.youtube.com/watch?v=5w5hmUgrTFo - Создаем свою мини-библиотеку в ООП стиле | Javascript, LocalStorage
+https://cdnjs.com/libraries/axios - библиотека Axios
+https://github.com/axios/axios - npm Axios
