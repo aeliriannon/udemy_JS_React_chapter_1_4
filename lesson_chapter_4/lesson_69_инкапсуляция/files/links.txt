@@ -1,0 +1,2 @@
+https://medium.com/devschacht/javascripts-new-private-class-fields-c60daffe361b - Новые #приватные поля классов в JavaScript
+http://www.codenet.ru/progr/cpp/ipn.php - Инкапсуляция, полиморфизм, наследование

@@ -1,0 +1,7 @@
+https://drive.google.com/file/d/1YWy-nO7V3LrAu-5xPoiZ_6Csjz01C7CE/view - конфиг webpack
+https://webpack.js.org/concepts/modules/ - модули webpack
+https://webpack.js.org/configuration/devtool/ - виды devtools
+https://webpack.js.org/configuration/mode/ - режимы работы webpack
+https://webpack.js.org/ - визуализация webpack
+https://webpack.js.org/guides/getting-started/ - установка webpack
+https://largescalejs.ru/commonjs-modules/ - модули common JS

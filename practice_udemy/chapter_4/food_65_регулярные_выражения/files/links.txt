@@ -1,0 +1,3 @@
+https://learn.javascript.ru/regular-expressions - регулярные выражения
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/RegExp - RegExp
+https://regex101.com/ - конструктор регулярных выражений
