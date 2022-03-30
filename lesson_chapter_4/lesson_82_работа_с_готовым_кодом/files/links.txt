@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=tuhEduhHCGw&t=1s - 8 полезных js библиотек
+https://hammerjs.github.io/ - hummer.js
+https://fotorama.io/ - fotorama.js
+https://galleriajs.github.io/ - galleria
+https://kenwheeler.github.io/slick/ - slick slider
+https://owlcarousel2.github.io/OwlCarousel2/ - owl carousel
+https://github.com/ganlanyuan/tiny-slider - tiny slider
+https://www.udemy.com/course/javascript_practice/?referralCode=9DD7B19DD5505880B724 - практический курс по продвинутому жава скрипту
+https://gostash.it/ru/stashes/popular/javascript - готовые скрипты

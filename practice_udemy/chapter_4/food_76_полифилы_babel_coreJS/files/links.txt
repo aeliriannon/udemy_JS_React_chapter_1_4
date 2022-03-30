@@ -1,0 +1,7 @@
+https://babeljs.io/ - BABEL
+https://browserl.ist/ - Проверка браузера
+https://github.com/zloirock/core-js - core-js
+https://www.npmjs.com/package/es6-promise - Промисы
+https://www.npmjs.com/package/nodelist-foreach-polyfill - полифил
+
+BABEL - превращает наш новый код ES6, в старый формат ES5   

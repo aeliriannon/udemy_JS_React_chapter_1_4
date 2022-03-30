@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/practice_udemy/**/node_modules
+/lesson_chapter_4/**/node_modules
 /.pnp
 .pnp.js
 

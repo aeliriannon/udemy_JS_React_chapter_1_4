@@ -1,0 +1,4 @@
+https://learn.javascript.ru/js-animation#funktsii-raschyota-vremeni - JavaScript-анимации
+https://developer.mozilla.org/ru/docs/Web/API/window/requestAnimationFrame - requestAnimationFrame документация
+https://html5.by/blog/what-is-requestanimationframe/ - Что такое requestAnimationFrame?
+https://html5book.ru/css3-animation/ - CSS3-анимация
