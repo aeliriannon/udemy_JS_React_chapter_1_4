@@ -1,11 +1,14 @@
-"use strict";  // используется для обозначения того, что код пишем в новом формате, пишев в верху главного документа
+const array = [5, 2, 4, 3, 6, 2, 1];
 
-// console.log(1);
+const newArray = array.filter((item) => item % 2 !== 0).sort();
+let key = 0;
+const output = array.map((i) => {
+  if(i%2 !== 0) {
+    i = newArray[key];
+    key++;    
+  }
+  return i;
+});
 
-let number = 5; // изменяемая переменная
-const leftBorderWidth = 1;  // постоянная константа, лучше использовать везде, где возможно
-// прямых констант в js  не существует
 
-number = 10;  // меняем вышезаданное значение переменной  number
-console.log(number) // выведет 10
-var name = "Ivan";  // старая версия переменной, лучше не использовать
+console.log(output);
